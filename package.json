@@ -1,7 +1,7 @@
 {
   "name": "jatindergogna.in",
   "version": "0.1.0",
-  "homepage": "http://anmol92verma.github.io/jatindergogna",
+  "homepage": "http://anmol92verma.github.io/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.1",
